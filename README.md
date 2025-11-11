@@ -81,12 +81,12 @@ WELCOME TO PRATHAM'S BANK
 
 ENTER THE PIN : 667
 
-====================================
+
 Welcome back, valued customer!
 1. CHECK BALANCE
 2. WITHDRAW MONEY
 3. DEPOSIT MONEY
 4. CHANGE PIN
 5. EXIT
-====================================
+
 
