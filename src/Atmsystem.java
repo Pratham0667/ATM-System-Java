@@ -57,7 +57,6 @@ FUTURE IMPROVEMENTS:
 //                      START OF PROGRAM
 // ===============================================================
 
-package small_project_in_java;
 // adding more soon !!!!!
 import java.util.Scanner;
 import java.time.LocalDateTime;
@@ -79,7 +78,7 @@ public class Atmsystem {
 
             if (enteredpin == realpin) {
                 atmOperations();
-                waitForEnter();
+                
                 return; // exit main after successful session
             } else {
                 attempts++;
