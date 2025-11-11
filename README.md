@@ -76,9 +76,9 @@ You’re free to **use, modify, and distribute** this code with proper attributi
      java Atmsystem
 
 # sample output
-===========================
+
 WELCOME TO PRATHAM'S BANK
-===========================
+
 ENTER THE PIN : 667
 
 ====================================
