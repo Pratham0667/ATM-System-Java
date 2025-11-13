@@ -1,4 +1,10 @@
 # 💳 ATM System Simulation (Java)
+![Language](https://img.shields.io/badge/Language-Java-red)
+![Version](https://img.shields.io/badge/Version-2.0-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Author](https://img.shields.io/badge/Author-Pratham-green)
 
 A console-based **ATM System in Java** that simulates core banking operations — including **balance inquiry**, **cash withdrawal**, **deposit**, and **PIN management**.  
 It features a **secure login system**, **timestamped transactions**, and a **session summary** for an authentic ATM experience.
